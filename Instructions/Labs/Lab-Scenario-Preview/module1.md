@@ -16,4 +16,4 @@ After completing this lab, you will be able to:
 
 ## Architecture Diagram
 
- ![](../media/pl900-arch1.png)
+ ![](../media/finalarch.png)
