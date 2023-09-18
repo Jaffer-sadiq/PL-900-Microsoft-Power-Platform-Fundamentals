@@ -1,6 +1,6 @@
 # Lab 1: Data Modeling
 
-## Scenario
+## Lab scenario
 
 Bellows College is an educational organization with multiple buildings on
 campus. Campus visits are currently recorded in paper journals. The information is not captured consistently, and there are no means to collect and analyze data about the visits across the entire campus.
@@ -19,7 +19,17 @@ In this lab you will access your environment, create a Microsoft Dataverse datab
 
 Finally, you will import sample data into Microsoft Dataverse.
 
+## Lab objective
 
+In this lab, you will perform:
+
++ Exercise 1: Create New Table
++ Exercise 2: Import Data
+  
+## Architecture Diagram
+
+ ![](media/finalarch.png)
+ 
 ## High-level lab steps
 
 To prepare your learning environments you will:
@@ -256,3 +266,7 @@ You have successfully created a new table and imported data.
 > - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
 > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
 > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help.
+
+### Review
+In this lab, you have completed:
+- Creating a New Table and importing the Data

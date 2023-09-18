@@ -1,6 +1,6 @@
 ## Lab 5: How to build a simple dashboard
 
-## Scenario
+## Lab scenario
 
 Bellows College is an educational organization with multiple buildings on
 campus. Campus visitors are currently recorded in paper journals. The
@@ -11,6 +11,10 @@ Campus administration would like to modernize their visitor registration system 
 Throughout this course, you will build applications and perform automation to enable the Bellows College administration and security personnel to manage and control access to the buildings on campus.
 
 In this lab, you will build a Power BI report and dashboard that visualizes data about campus visits.
+
+## Lab objective
++ Exercise 1: Create Power BI Report
++ Exercise 2: Create Power BI Dashboard
 
 ## High-level lab steps
 
@@ -135,5 +139,9 @@ We will follow the below steps to design and create a Power BI dashboard:
    > - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
    > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
    > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help.
+
+## Review
+In this lab, you have completed:
+- Building a Power BI report and dashboard that visualizes data about campus visits.
    
-   **You have successfully completed the lab!**
+## You have successfully completed the lab
