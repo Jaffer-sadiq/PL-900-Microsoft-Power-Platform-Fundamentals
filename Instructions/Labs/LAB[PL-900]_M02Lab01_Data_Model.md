@@ -1,6 +1,6 @@
 # Lab 1: Data Modeling
 
-## Scenario
+## Lab scenario
 
 Bellows College is an educational organization with multiple buildings on
 campus. Campus visits are currently recorded in paper journals. The information is not captured consistently, and there are no means to collect and analyze data about the visits across the entire campus.
@@ -19,7 +19,10 @@ In this lab you will access your environment, create a Microsoft Dataverse datab
 
 Finally, you will import sample data into Microsoft Dataverse.
 
+## Architecture Diagram
 
+ ![](../media/finalarch.png)
+ 
 ## High-level lab steps
 
 To prepare your learning environments you will:
