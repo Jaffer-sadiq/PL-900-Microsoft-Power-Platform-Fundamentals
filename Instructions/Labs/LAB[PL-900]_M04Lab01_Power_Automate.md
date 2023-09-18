@@ -12,6 +12,9 @@ Throughout this course, you will build applications and perform automation to en
 
 In this lab, you will create a Power Automate flow to email a visitor when a visit is scheduled.
 
+## Lab objectives
++ Exercise 1: Create Visit Notification flow
+
 ## High-level lab steps
 
 The following have been identified as requirements you must implement to
@@ -154,7 +157,7 @@ the unique code assigned to the visit when a visit is created.
 
 9. Navigate to the browser tab with your flow test running. After a short delay, you should see the flow running. This is where you can catch any issues in the flow or confirm that it ran successfully.
 
-After a short delay, you should see an email in your inbox, since you populated John Doe's email as your personal email. Note that it may go to your Junk Email folder.
+   >**Note**: After a short delay, you should see an email in your inbox, since you populated John Doe's email as your personal email. Note that it may go to your Junk Email folder.
     
 > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
 > - Navigate to the Lab Validation Page, from the upper right corner in the lab guide section.
@@ -165,3 +168,7 @@ After a short delay, you should see an email in your inbox, since you populated 
 ## Challenges
 
 - Experiment with the formatting on the email. How can you make it look more professional?
+
+## Review
+In this lab, you have completed:
+- Creating a Power Automate flow to email a visitor when a visit is scheduled.
