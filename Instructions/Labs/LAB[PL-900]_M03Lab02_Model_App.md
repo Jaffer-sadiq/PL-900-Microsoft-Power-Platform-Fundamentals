@@ -1,6 +1,6 @@
 # Lab 3: How to build a model-driven app
 
-## Scenario
+## Lab scenario
 
 Bellows College is an educational organization with multiple buildings on campus. Campus visitors are currently recorded in paper journals. The information is not captured consistently, and there are no means to collect and analyze data about the visits across the entire campus.
 
@@ -9,6 +9,10 @@ Campus administration would like to modernize their visitor registration system 
 Throughout this course, you will build applications and perform automation to enable the Bellows College administration and security personnel to manage and control access to the buildings on campus.
 
 In this lab, you will build a Power Apps model-driven app to allow the backoffice campus staff to manage visit records across the entire campus.
+
+## Lab objectives
++ Exercise 1: Customize Views and Forms
++ Exercise 2: Create Model-driven app
 
 ## High-level lab steps
 
@@ -238,3 +242,8 @@ You have created and configured your first model-driven app.
 ## Challenges
 
 - Select specific views and forms for Contacts.
+
+### Review
+In this lab, you have completed:
+- Customize Views and Forms
+- Create Model-driven app
