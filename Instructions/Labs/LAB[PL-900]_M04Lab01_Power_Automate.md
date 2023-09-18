@@ -1,6 +1,6 @@
 # Lab 4: How to build an automated solution
 
-## Scenario
+## Lab scenario
 
 Bellows College is an educational organization with multiple buildings on
 campus. Campus visitors are currently recorded in paper journals. The
