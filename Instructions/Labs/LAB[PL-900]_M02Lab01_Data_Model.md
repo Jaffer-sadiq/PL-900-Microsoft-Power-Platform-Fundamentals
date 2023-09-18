@@ -269,5 +269,4 @@ You have successfully created a new table and imported data.
 
 ### Review
 In this lab, you have completed:
-- Create New Table
-- Import Data
+- Creating a New Table and importing the Data
