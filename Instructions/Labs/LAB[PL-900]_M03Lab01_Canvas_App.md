@@ -8,7 +8,7 @@ Currently, campus administration is leveraging an Excel spreadsheet to track vis
 
 Throughout this course, you will build applications and perform automation to enable the Bellows College administration and security personnel to manage and control access to the buildings on campus.
 
-## Lab objectives
+## Lab objective
 In this lab, you will perform:
 + Exercise 1: Create Visits Canvas app
 
@@ -126,6 +126,8 @@ In this task, you will test out your new app.
 
 Congratulations, You have created and configured your first canvas app.
 
-## Review
+### Review
 In this lab, you have completed:
 - Creating a canvas app by connecting your Visits table
+
+### Proceed with the next Lab.
