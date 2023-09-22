@@ -13,8 +13,11 @@ Throughout this course, you will build applications and perform automation to en
 In this lab, you will build a Power BI report and dashboard that visualizes data about campus visits.
 
 ## Lab objective
+In this lab, you will perform:
 + Exercise 1: Create Power BI Report
 + Exercise 2: Create Power BI Dashboard
+
+## Estimated time: 40 minutes
 
 ## High-level lab steps
 
