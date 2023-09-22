@@ -172,6 +172,8 @@ the unique code assigned to the visit when a visit is created.
 
 - Experiment with the formatting on the email. How can you make it look more professional?
 
-## Review
+### Review
 In this lab, you have completed:
 - Creating a Power Automate flow to email a visitor when a visit is scheduled.
+
+### Proceed with the next Lab.
