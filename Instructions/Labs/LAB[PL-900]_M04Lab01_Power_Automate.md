@@ -12,8 +12,11 @@ Throughout this course, you will build applications and perform automation to en
 
 In this lab, you will create a Power Automate flow to email a visitor when a visit is scheduled.
 
-## Lab objectives
+## Lab objective
+In this lab, you will perform:
 + Exercise 1: Create Visit Notification flow
+
+## Estimated time: 40 minutes
 
 ## High-level lab steps
 
@@ -169,6 +172,8 @@ the unique code assigned to the visit when a visit is created.
 
 - Experiment with the formatting on the email. How can you make it look more professional?
 
-## Review
+### Review
 In this lab, you have completed:
 - Creating a Power Automate flow to email a visitor when a visit is scheduled.
+
+### Proceed with the next Lab.

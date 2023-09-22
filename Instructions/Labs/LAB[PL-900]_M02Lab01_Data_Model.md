@@ -19,13 +19,15 @@ In this lab you will access your environment, create a Microsoft Dataverse datab
 
 Finally, you will import sample data into Microsoft Dataverse.
 
-## Lab objective
+## Lab objectives
 
 In this lab, you will perform:
 
 + Exercise 1: Create New Table
 + Exercise 2: Import Data
-  
+
+## Estimated time: 40 minutes
+
 ## Architecture Diagram
 
  ![](media/finalarch.png)
@@ -270,3 +272,6 @@ You have successfully created a new table and imported data.
 ### Review
 In this lab, you have completed:
 - Creating a New Table and importing the Data
+
+### Proceed with the next Lab.
+

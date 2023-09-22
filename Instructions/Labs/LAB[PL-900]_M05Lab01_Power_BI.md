@@ -13,8 +13,11 @@ Throughout this course, you will build applications and perform automation to en
 In this lab, you will build a Power BI report and dashboard that visualizes data about campus visits.
 
 ## Lab objective
+In this lab, you will perform:
 + Exercise 1: Create Power BI Report
 + Exercise 2: Create Power BI Dashboard
+
+## Estimated time: 40 minutes
 
 ## High-level lab steps
 
@@ -133,15 +136,15 @@ We will follow the below steps to design and create a Power BI dashboard:
       Your dashboard should look similar to the following:
 
       ![](media/5-powerbi-result.png)
-   
-   > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
-   > - Navigate to the Lab Validation Page, from the upper right corner in the lab guide section.
-   > - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
-   > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
-   > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help.
 
-## Review
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+> - Navigate to the Lab Validation Page, from the upper right corner in the lab guide section.
+> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help.
+
+### Review
 In this lab, you have completed:
 - Building a Power BI report and dashboard that visualizes data about campus visits.
    
-## You have successfully completed the lab
+### You have successfully completed the lab
