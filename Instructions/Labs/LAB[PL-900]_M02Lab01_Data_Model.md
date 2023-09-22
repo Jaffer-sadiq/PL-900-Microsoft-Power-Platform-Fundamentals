@@ -19,7 +19,7 @@ In this lab you will access your environment, create a Microsoft Dataverse datab
 
 Finally, you will import sample data into Microsoft Dataverse.
 
-## Lab objective
+## Lab objectives
 
 In this lab, you will perform:
 
@@ -272,3 +272,6 @@ You have successfully created a new table and imported data.
 ### Review
 In this lab, you have completed:
 - Creating a New Table and importing the Data
+
+### Proceed with the next Lab.
+
