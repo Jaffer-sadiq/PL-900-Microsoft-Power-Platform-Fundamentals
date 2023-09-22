@@ -12,6 +12,8 @@ Throughout this course, you will build applications and perform automation to en
 In this lab, you will perform:
 + Exercise 1: Create Visits Canvas app
 
+## Estimated time: 40 minutes
+
 ## High-level lab steps
 
 We will follow the below outline to design the canvas app:
