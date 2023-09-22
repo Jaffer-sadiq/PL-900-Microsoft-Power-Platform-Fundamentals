@@ -250,3 +250,5 @@ You have created and configured your first model-driven app.
 In this lab, you have completed:
 - Customize Views and Forms
 - Create Model-driven app
+
+### Proceed with the next Lab.
