@@ -25,7 +25,9 @@ In this lab, you will perform:
 
 + Exercise 1: Create New Table
 + Exercise 2: Import Data
-  
+
+## Estimated time: 40 minutes
+
 ## Architecture Diagram
 
  ![](media/finalarch.png)
