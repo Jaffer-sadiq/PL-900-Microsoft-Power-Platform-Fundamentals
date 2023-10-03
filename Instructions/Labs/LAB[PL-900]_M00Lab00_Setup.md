@@ -62,3 +62,5 @@ In this Module-lab 0, you will acquire a Power Platform trial and access the Pow
 1. Your **Practice** environment should now show in the list of Environments.
 
    > **Note**: Your environment may take a few minutes to provision. Refresh the page if needed.
+
+## Proceed to next lab
