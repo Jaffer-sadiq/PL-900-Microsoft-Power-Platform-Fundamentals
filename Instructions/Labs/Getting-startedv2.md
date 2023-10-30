@@ -1,6 +1,6 @@
 # **Getting Started with Your PL-900 Microsoft Power Platform Fundamentals Workshop**
  
-Welcome to your PL-900 Microsoft Power Platform Fundamentals! We've prepared a seamless environment for you to explore and learn PL-900 Microsoft Power Platform Fundamentals. Let's begin by making the most of this experience:
+Welcome to your PL-900 Microsoft Power Platform Fundamentals workshop! We've prepared a seamless environment for you to explore and learn PL-900 Microsoft Power Platform Fundamentals. Let's begin by making the most of this experience:
  
 ## **Accessing Your Lab Environment**
  
