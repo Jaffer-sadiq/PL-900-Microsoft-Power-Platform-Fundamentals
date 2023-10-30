@@ -2,7 +2,7 @@
  
 Welcome to your PL-900 Microsoft Power Platform Fundamentals! We've prepared a seamless environment for you to explore and learn PL-900 Microsoft Power Platform Fundamentals. Let's begin by making the most of this experience:
  
-## **1. Accessing Your Lab Environment**
+## **Accessing Your Lab Environment**
  
 Once you're ready to dive in, your virtual machine and lab guide will be right at your fingertips within your web browser.
  
@@ -12,24 +12,23 @@ Once you're ready to dive in, your virtual machine and lab guide will be right a
  
 Your virtual machine is your workhorse throughout the workshop. The lab guide is your roadmap to success.
  
-## **2. Exploring Your Lab Resources**
+## **Exploring Your Lab Resources**
  
 To get a better understanding of your lab resources and credentials, navigate to the **Environment Details** tab.
  
 ![Explore Lab Resources](./media/env.png)
  
-## **3. Utilizing the Split Window Feature**
+## **Utilizing the Split Window Feature**
  
 For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the top right corner.
  
 ![Use the Split Window Feature](./media/spl.png)
  
-## **4. Managing Your Virtual Machine**
+## **Managing Your Virtual Machine**
  
 Feel free to start, stop, or restart your virtual machine as needed from the **Resources** tab. Your experience is in your hands!
  
 ![Manage Your Virtual Machine](./media/res.png)
- 
 
 6. Click "Next" from the bottom right corner to embark on your Lab journey!
  
