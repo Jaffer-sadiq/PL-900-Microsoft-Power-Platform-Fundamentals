@@ -70,7 +70,7 @@ We would like to assign each visit a unique number that can be easily entered an
 
 1. Using the navigation on the left select **Tables**.
 
-1. Select **+ New table** and choose **+ New table**. 
+1. Select **+ New table** and choose **Set advanced properties**. 
 
 1. Enter `Visit` for **Display Name**. Leave other fields at default.
 
@@ -160,7 +160,7 @@ We would like to assign each visit a unique number that can be easily entered an
 
 	- Enter `Visitor` for **Display name**.
 
-	- Select **Lookup** for **Data type**.
+	- Select **Lookup** > **Lookup** for **Data type**.
 
 	- Select **Contact** for the **Related Table**.
 
