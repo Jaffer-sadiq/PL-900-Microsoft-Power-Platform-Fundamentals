@@ -182,7 +182,7 @@ We would like to assign each visit a unique number that can be easily entered an
 
 3. Click on the Waffle button in the upper left corner to change applications and select **OneDrive**. (It may take a moment for your OneDrive to be set up. Click **Your OneDrive is ready** when you see it on the screen.)
 
-4. Click **Upload** from the top menu and select **Files**.
+4. Select **+Add new** from the menu and select **Files upload**.
 
 5. Locate and select the **Visits.xlsx** file and click **Open**.
 
