@@ -2,12 +2,11 @@
 
 ## Scenario
 
-Bellows College is an educational organization with multiple buildings on
-campus. Campus visitors are currently recorded in paper journals. The information is not captured consistently, and there are no means to collect and analyze data about the visits across the entire campus.
+Bellows College is an educational organization with multiple campuses and programs. Many of Bellow Colleges instructors and administrators need to attend events, and purchase items. Historically tracking these expenses has been a challenge.
 
-Campus administration would like to modernize their visitor registration system where access to the buildings is controlled by security personnel and all visits are required to be pre-registered and recorded by their hosts.
+Campus administration would like to modernize their expense reporting system where employees submit expenses.
 
-Throughout this course, you will build applications and perform automation to enable the Bellows College administration and security personnel to manage and control access to the buildings on campus.
+Throughout this course, you will build applications and perform automation to enable Bellows College employees to manage expenses.
 
 In this Module-lab 0, you will acquire a Power Platform trial and access the Power Platform admin center. In the admin center, you will then create a **Dev One** environment that will be used for majority of the lab executions.
 
