@@ -44,7 +44,7 @@ In this Module-lab 0, you will acquire a Power Platform trial and access the Pow
 
 1. Select **Environments** and click **+ New**.
 
-    1. For **Name**, enter **Practice<inject key="DeploymentID" enableCopy="false"/>**
+    1. For **Name**, enter **Dev One**
 
     1. For **Type**, select **Trial** (Do not select the Trial
         (subscription-based) option).
@@ -59,7 +59,7 @@ In this Module-lab 0, you will acquire a Power Platform trial and access the Pow
 
     1. Leave the remaining options at their defaults and select **Save**.
 
-1. Your **Practice** environment should now show in the list of Environments.
+1. Your **Dev One** environment should now show in the list of Environments.
 
    > **Note**: Your environment may take a few minutes to provision. Refresh the page if needed.
 
