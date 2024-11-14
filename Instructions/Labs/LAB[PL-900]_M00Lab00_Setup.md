@@ -2,49 +2,39 @@
 
 ## Scenario
 
-Bellows College is an educational organization with multiple campuses and programs. Many of Bellow Colleges instructors and administrators need to attend events, and purchase items. Historically tracking these expenses has been a challenge.
+Bellows College is an educational organization with multiple buildings on
+campus. Campus visitors are currently recorded in paper journals. The information is not captured consistently, and there are no means to collect and analyze data about the visits across the entire campus.
 
-Campus administration would like to modernize their expense reporting system where employees submit expenses.
+Campus administration would like to modernize their visitor registration system where access to the buildings is controlled by security personnel and all visits are required to be pre-registered and recorded by their hosts.
 
-Throughout this course, you will build applications and perform automation to enable Bellows College employees to manage expenses.
+Throughout this course, you will build applications and perform automation to enable the Bellows College administration and security personnel to manage and control access to the buildings on campus.
 
-In this Module-lab 0, you will acquire a Power Platform trial and access the Power Platform admin center. In the admin center, you will then create a **Dev One** environment that will be used for majority of the lab executions.
+In this Module-lab 0, you will acquire a Power Platform trial and access the Power Platform admin center. In the admin center, you will then create a **Practice** environment that will be used for majority of the lab executions.
 
 ## Exercise 1: Setup
 
 ### Task 1: Acquire your Microsoft Power Platform trial tenant
 
-1. Signup to Powerapps using Powerapps Trial link provided below
+1. Navigate to <https://powerapps.microsoft.com> and select **Start free**.
 
-   ```
-   https://apps.powerapps.com/trial
-   ```
+   ![](media/startfreen2.png)
 
-1. You'll see the **Sign in** tab. Here, enter your credentials:
- 
-   - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
- 
-     ![Enter Your Username](../Media/sc900-image-1.png)
- 
-1. Next, provide your password:
- 
-   - **Password:** <inject key="AzureAdUserPassword"></inject>
- 
-      ![Enter Your Password](../Media/sc900-image-2.png)
+1. Click on **Start using apps** 
 
-1. If **Action required** pop-up window appears, click on **Ask later**.
+   ![](media/startusingapp.png)
 
-   ![Ask Later](../Media/2test1.png)
+1. Under **Let's get started**, enter the email address <inject key="AzureAdUserEmail"></inject> in the text box and select **Start your free trial**.
+
+   ![](media/mailid3.png)
+
+1. If you see a prompt that says you have an existing account with Microsoft, select **Sign in**.
+
+1. Enter the password provided below and select **Sign in**.
+   * Password: <inject key="AzureAdUserPassword"></inject>
+
+1. If prompted for multifactor authentication, select **Ask Later**.
     
 1. Select **Yes** to stay signed in.
-
-1. On the **You need a Power Apps license to use this app** page, select **Start a 30-day trial**
-   
-    ![Ask Later](../Media/lab0-1.png)
-
-1. Select **Start my trial**
-
-    ![Ask Later](../Media/lab0-2.png)
 
 ### Task 2: Create environment
 
