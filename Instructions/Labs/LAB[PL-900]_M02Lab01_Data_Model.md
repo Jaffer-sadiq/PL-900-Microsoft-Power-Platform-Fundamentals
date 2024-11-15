@@ -70,13 +70,19 @@ We would like to assign each visit a unique number that can be easily entered an
 
 1. Using the navigation on the left select **Tables**.
 
-1. Select **+ New table** and choose **Set advanced properties**. 
+1. Select **+ New table** and choose **Table (advanced properties)**. 
+
+	![](media/lab1-1z.png)
 
 1. Enter `Visit` for **Display Name**. Leave other fields at default.
+
+    ![](media/lab1-2z.png)
 
 1. Select **Save**.
 
 1. Under the **Schema** section, select **Columns**.
+
+    ![](media/lab1-3z.png)
 
 1. Create Scheduled Start column
 
@@ -94,6 +100,8 @@ We would like to assign each visit a unique number that can be easily entered an
 
 	- Select **Save**.
 
+    ![](media/lab1-4z.png)
+
 1. Create Scheduled End column
 
 	- Click **+ New column**.
@@ -109,6 +117,8 @@ We would like to assign each visit a unique number that can be easily entered an
 	- In **Time zone adjustment**, select **Time zone independent**.
 
 	- Select **Save**.
+
+    ![](media/lab1-5z.png)
 
 1. Create Actual Start column
 
@@ -126,6 +136,8 @@ We would like to assign each visit a unique number that can be easily entered an
 
 	- Select **Save**.
 
+    ![](media/lab1-6z.png)
+
 1. Create Actual End column
 
 	- Click **+ New column**.
@@ -142,17 +154,19 @@ We would like to assign each visit a unique number that can be easily entered an
 
 	- Select **Save**.
 
+    ![](media/lab1-7z.png)
+
 1. Create Code column
 
 	- Click **+ New column**.
 
 	- Enter `Code` for **Display name**.
 
-	- Select **Autonumber** for **Data type**.
-
-	- Select **Date prefixed number** for **Autonumber type**.
+	- Select **Text** for **Data type**.
 
 	- Select **Save**.
+
+    ![](media/lab1-8zn.png)
 
 1. Create Visitor lookup column
 
@@ -169,6 +183,8 @@ We would like to assign each visit a unique number that can be easily entered an
 	- Enter `visitor_id` for **Relationship name**.
 
 	- Select **Save**.
+
+    ![](media/lab1-9z.png)
 
 ## Exercise 2: Import Data
 
@@ -218,7 +234,7 @@ We would like to assign each visit a unique number that can be easily entered an
 
 14. On the **Destination table** drop-down menu, Select the table name starts with **crXXX_Visit** (where XXX is a random set of letters and numbers)
 
-15. On the **Column Mapping**. Map the Columns to their corresponding destination columns.
+15. On the **Column Mapping**, verify that all the source and Destination fields mapped appropriately.
 
 	| Destination columns  | Source values   |
 	|:---------------------|:----------------|
@@ -228,6 +244,8 @@ We would like to assign each visit a unique number that can be easily entered an
 	| crxxx_Name           | name            |
 	| crxxx_ScheduledEnd   | scheduled end   |
 	| crxxx_ScheduledStart | scheduled start |
+
+    ![](media/lab1-10z.png)
 
 16. Select **Next**.
 
@@ -264,10 +282,11 @@ We would like to assign each visit a unique number that can be easily entered an
 You have successfully created a new table and imported data.
 
 > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
-> - Navigate to the Lab Validation Page, from the upper right corner in the lab guide section.
-> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
-> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
-> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help.
+> - If you receive a success message, you can proceed to the next task.
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide. 
+> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
+
+<validation step="92fc1720-0f2b-42f8-9718-4e9301f3f7c4" />
 
 ### Review
 In this lab, you have completed:
