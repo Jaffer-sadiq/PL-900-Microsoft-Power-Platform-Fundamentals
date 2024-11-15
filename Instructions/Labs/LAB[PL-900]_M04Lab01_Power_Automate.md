@@ -49,15 +49,19 @@ the unique code assigned to the visit when a visit is created.
 
 4.  If prompted, select **Get started**.
 
-5.  Click **New flow** and select **Automated cloud flow**.
+5. Click **New flow** and select **Automated cloud flow**.
+
+   ![img.](media/lab4-3n.png)
 
 6.  Enter `Visit Notification` for **Flow name**.
 
 7.  In **Choose your flow's trigger**, search for **Dataverse**.
 
-8.  Select the trigger **When a row is added, modified or deleted**, and then select **Create**.
+8. Select the trigger **When a row is added, modified or deleted**, and then select **Create**.
 
-9.  Populate the trigger conditions for the flow:
+   ![img.](media/lab4-2n.png)
+
+9. Populate the trigger conditions for the flow:
 
     1.  Select **Added** for **Change type**
 
@@ -67,6 +71,7 @@ the unique code assigned to the visit when a visit is created.
 
     4.  On the trigger step, click the ellipsis (**...**) and click **Rename**. Rename this trigger **"When a visit is added"**.    
         This is a good practice, so you and other flow editors can understand the purpose of the step without having to dive into the details.
+    ![img.](media/lab4-4n.png)
 
 ### Task 2: Create a step to get the visitor row
 
@@ -74,13 +79,17 @@ the unique code assigned to the visit when a visit is created.
 
 2.  Search for **Dataverse**.
 
-3.  Select the **Get a row by ID** action.
+3. Select the **Get a row by ID** action.
+
+   ![img.](media/lab4-5n.png)
 
 4.  Select **Contacts** as **Table name**
 
-5.  Select the **Row ID** field and then click on **See more** under **Insert parameters from previous steps**.
+5.  Select the **Row ID** field 
 
-6.  From the Dynamic content list that shows up, search and select for the **Visitor (Value)**. In this step, you are looking up the Contact for the Visit row that was created to trigger this flow. Since email address is part of the Contact table, you will need this information to send the email to the visitor.
+6. From the Dynamic content list that shows up, search and select for the **Visitor (Value)**. In this step, you are looking up the Contact for the Visit row that was created to trigger this flow. Since email address is part of the Contact table, you will need this information to send the email to the visitor.
+
+   ![img.](media/lab4-6n.png)
 
 7. On this action, click the ellipsis (**...**) and click **Rename**. Rename this action **"Get the Visitor"**.                     
    This is a good practice, so you and other flow editors can understand the purpose of the step without having to dive into the details.
@@ -90,14 +99,18 @@ the unique code assigned to the visit when a visit is created.
 1.  Click **+ New step**. This is the step that will send an email to the
     visitor.
 
-2.  Search for *mail*, select **Office 365 Outlook** connector and **Send an email (V2)** action.
+2. Search for *mail*, select **Office 365 Outlook** connector and **Send an email (V2)** action.
+
+   ![img.](media/lab4-7n.png)
 
 3.  If asked to Accept terms and conditions for using this action, click **Accept**.
 
 4.  Select **Add dynamic content** under the **To** field. 
     
-5.  Select **Email** from the Dynamic content list. 
+5. Select **Email** from the Dynamic content list. 
     >**Note**: Notice that it is beneath the **Get the visitor** header. This means you are selecting the Email that is related to the Visitor that you looked up in the previous step.
+
+   ![img.](media/lab4-8n.png)
 
 6.  Enter **Your scheduled visit to Bellows College** in the **Subject** field.
 
@@ -117,7 +130,9 @@ the unique code assigned to the visit when a visit is created.
 
 8.  Highlight the **{First Name}** text. Replace it with the **First Name** field from the **Get the Visitor** step.
 
-9.  Highlight the **{Scheduled Start}** text. Replace it with the **Scheduled Start** field **When a visit is added** step.
+9. Highlight the **{Scheduled Start}** text. Replace it with the **Scheduled Start** field **When a visit is added** step.
+
+   ![img.](media/lab4-9n.png)
 
 10. Highlight the **{Scheduled End}** text. Replace it with the **Scheduled End** field from the **When a visit is added** step.
 
@@ -125,7 +140,7 @@ the unique code assigned to the visit when a visit is created.
 
     Leave this flow tab open for the next task. You flow should look approximately like the following:
 
-    ![Example of flow steps.](media/4-Flow.png)
+    ![Example of flow steps.](media/lab4-10n.png)
 
 ### Task 4: Validate and test the flow
 
@@ -163,10 +178,11 @@ the unique code assigned to the visit when a visit is created.
    >**Note**: After a short delay, you should see an email in your inbox, since you populated John Doe's email as your personal email. Note that it may go to your Junk Email folder.
     
 > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
-> - Navigate to the Lab Validation Page, from the upper right corner in the lab guide section.
 > - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
 > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
-> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help.
+> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help
+
+<validation step="d62bfddd-e1d7-47a4-98d5-b90184613d43" />
 
 ## Challenges
 

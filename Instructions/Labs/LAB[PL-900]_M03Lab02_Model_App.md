@@ -64,6 +64,11 @@ Both will be integrated to the model-driven app for a better user-experience.
 
    **IMPORTANT:** Since by default all forms are named Information, make sure to verify that the form you select has a Form Type of **Main** and not something else. By default, the form has two fields: Name and Owner.
 
+   ![](media/lab3-1n.png)
+
+
+   ![](media/lab3-2n.png)
+
 5. On the right side of the screen on the Properties panel, select the **Display Name** field, and change it to **Main Information**.
 
 6. Select the **Table Columns** from the left navigation pane and add the following fields below the **Owner** field by dragging columns to the form or simply clicking column names:
@@ -82,9 +87,15 @@ Both will be integrated to the model-driven app for a better user-experience.
 
 	The header is the top right area of the form. You may need to collapse the Properties panel on the right side of the screen to see the field on the form.
 
+   ![](media/lab3-3n.png)
+
 8. With the **Code** field still selected, check the checkbox for **Read-only** in the Properties panel on the right side of the screen.
 
+   ![](media/lab3-4n.png)
+
 9. Select **Owner** field. In the Properties panel, change the **Label** to **Host**
+
+   ![](media/lab3-5n.png)
 
 10. Select the **Save and publish** at the top right and wait for for the publishing to complete.
 
@@ -112,11 +123,9 @@ In this task, we will modify the default Active Visits view and create a new vie
 
 4. Resize the individual column widths to fit the data.
 
-5. Under **Sort by ...** select the X to remove **Name** and instead, select **Scheduled Start**.
+5. Select **Scheduled Start** to change the sort order to **Newer to Older**.
 
-6. Select **Scheduled Start** to change the sort order to **Newer to Older**.
-
-7. Select the **Save and publish** and wait for the publishing to complete.
+6. Select the **Save and publish** and wait for the publishing to complete.
 
 ### Task 3: Create new view for today’s visits
 
@@ -237,10 +246,11 @@ For simplicity and time’s sake, we will not be addressing some of the Visit co
 You have created and configured your first model-driven app.
 
 > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
-> - Navigate to the Lab Validation Page, from the upper right corner in the lab guide section.
 > - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
 > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
-> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help.
+> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help
+
+<validation step="cc68b724-6189-4c55-8c93-0de56b3c08d2" />
 
 ## Challenges
 

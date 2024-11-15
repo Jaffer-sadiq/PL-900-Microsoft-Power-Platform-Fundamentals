@@ -24,35 +24,33 @@ In this Module-lab 0, you will acquire a Power Platform trial and access the Pow
  
    - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
  
-     ![Enter Your Username](../Media/sc900-image-1.png)
+     ![Enter Your Username](./media/sc900-image-1.png)
  
 1. Next, provide your password:
  
    - **Password:** <inject key="AzureAdUserPassword"></inject>
  
-      ![Enter Your Password](../Media/sc900-image-2.png)
+      ![Enter Your Password](./media/sc900-image-2.png)
 
 1. If **Action required** pop-up window appears, click on **Ask later**.
-
-   ![Ask Later](../Media/2test1.png)
     
 1. Select **Yes** to stay signed in.
 
 1. On the **You need a Power Apps license to use this app** page, select **Start a 30-day trial**
    
-    ![Ask Later](../Media/lab0-1.png)
+    ![Ask Later](./media/lab0-1.png)
 
 1. Select **Start my trial**
 
-    ![Ask Later](../Media/lab0-2.png)
+    ![Ask Later](./media/lab0-2.png)
 
 ### Task 2: Create environment
 
 1. Navigate to Powerplatform admin center using the below URL and log in with the credentials provided before if prompted.
 
-  ```
-  https://admin.powerplatform.microsoft.com
-  ```
+   ```
+   https://admin.powerplatform.microsoft.com
+   ```
 
 1. If you see a Welcome popup, click **Get Started**.
 

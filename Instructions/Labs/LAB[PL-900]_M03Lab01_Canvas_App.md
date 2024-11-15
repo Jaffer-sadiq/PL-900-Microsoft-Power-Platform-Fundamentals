@@ -41,7 +41,9 @@ We will follow the below outline to design the canvas app:
 
 2.  Select your **Practice<inject key="DeploymentID" enableCopy="false"/>** environment at the top right if it is not already selected.
 
-3.  If necessary, click the **Home** icon on the left side of the screen. Select **Create** and then select **Dataverse**.
+3. If necessary, click the **Home** icon on the left side of the screen. Select **Create** and then select **Dataverse**.
+
+   ![](media/lab2-1n.png)
 
 4.  Select your Dataverse connection.
 
@@ -50,8 +52,14 @@ We will follow the below outline to design the canvas app:
     > - Locate **Microsoft Dataverse**
     > - Select **Create**
     > - **Sign in** and select **Allow access**
-    
-5.  Locate and select the **Visits** table you created in the previous lab.
+
+    ![](media/lab2-2n.png)
+
+    ![](media/lab2-3n.png)    
+
+5. Locate and select the **Visits** table you created in the previous lab.
+
+   ![](media/lab2-4n.png)
 
 6.  Select the **Connect** button in the bottom right corner.
 
@@ -65,6 +73,8 @@ We will follow the below outline to design the canvas app:
 
 10. Close the app preview by selecting the **X** in the upper right of the screen.
 
+11. On the Did you know? screen, check the **Don’t show me this again** box, and then select **Skip**
+
 Congratulations, you have successfully created a Power App from a Dataverse table. The next step in the process is to tailor the app to match your college's branding. The next series of steps will walk you through providing some extra customization to the app.
 
 ### Task 2: Modify and theme the newly created app
@@ -73,13 +83,15 @@ In this task, you will customize the header text on each of the three screens fo
 
 1.  You are on the Browse screen. Select the **Visits** label on the screen.
 
-1.  On the right side of the screen, under the Properties tab, update the **Text** control property to `Bellows College Visits`.
+1. On the right side of the screen, under the Properties tab, update the **Text** control property to `Bellows College Visits`.
+
+   ![](media/lab2-5n.png)
 
 1. In the properties, change the **Font size** to **24**.
 
 1.  Click in the blank background of the screen to see the updated text on your Browse screen.
 
-1.  Using the Tree view in the left-hand navigation, select **DetailScreen1**.
+1.  Using the Tree view in the left-hand navigation, select **DetailScreen**.
 
 1.  Select the **Visits** label on the screen.
 
@@ -87,7 +99,7 @@ In this task, you will customize the header text on each of the three screens fo
 
 1.  Click in the blank background of the screen to see the updated text on your Details screen.
 
-1.  Using the Tree view in the left-hand navigation, select **EditScreen1** (you may need to scroll down to see this on the Tree view).
+1.  Using the Tree view in the left-hand navigation, select **EditScreen** (you may need to scroll down to see this on the Tree view).
 
 1.  Select the **Visits** label on the screen.
 
@@ -95,17 +107,21 @@ In this task, you will customize the header text on each of the three screens fo
 
 1.  Click in the blank background of the screen to see the updated text on your Edit screen.
 
-1. Using the Tree view in the left-hand navigation, select the **BrowseScreen1**.
+1. Using the Tree view in the left-hand navigation, select the **BrowseScreen**.
 
 1. On the command toolbar, click on the **ellipsis (...)** icon, select the **Theme** button and from the list that appears, select the **Red** theme color.
+
+   ![](media/lab2-6n.png)
 
 ### Task 3: Test your Visits app
 
 In this task, you will test out your new app.
 
-1.  With your application open in the App Designer, click on the **ellipsis (...)** icon, select **Settings**, in the **General** section update the name of your app to **Visits App**, click the **X** to close the settings screen and then select **Save**.
+1. With your application open in the App Designer, click on the **ellipsis (...)** icon, select **Settings**, in the **General** section update the name of your app to **Visits App**, click the **X** to close the settings screen and then select **Save**.
 
-2.  Using the navigation on the left, select **BrowseScreen1** if not selected.
+   ![](media/lab2-7n.png)
+
+2.  Using the navigation on the left, select **BrowseScreen** if not selected.
 
 3.  In the app designer, select the **Preview the app** button (Play icon) on the command bar. *(You can also preview the app by pressing F5 on your keyboard.)*
 
