@@ -14,8 +14,7 @@ In this Module-lab 0, you will acquire a Power Platform trial and access the Pow
 
 ### Task 1: Acquire your Microsoft Power Platform trial tenant
 
-1. Signup to Powerapps using Powerapps Trial link provided below
-
+1. Sign up for Power Apps using the Power Apps Trial link below
    ```
    https://apps.powerapps.com/trial
    ```
@@ -46,11 +45,13 @@ In this Module-lab 0, you will acquire a Power Platform trial and access the Pow
 
 ### Task 2: Create environment
 
-1. Navigate to Powerplatform admin center using the below URL and log in with the credentials provided before if prompted.
+1. Go to the Power Platform Admin Center using the following URL
 
    ```
    https://admin.powerplatform.microsoft.com
    ```
+
+1. Log in with the previously provided credentials if prompted.
 
 1. If you see a Welcome popup, click **Get Started**.
 
