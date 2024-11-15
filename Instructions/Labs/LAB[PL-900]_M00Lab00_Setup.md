@@ -48,7 +48,7 @@ In this Module-lab 0, you will acquire a Power Platform trial and access the Pow
 
 1. Select **Environments** and click **+ New**.
 
-    1. For **Name**, enter **Dev One**
+    1. For **Name**, enter **Practice<inject key="DeploymentID" enableCopy="false"/>**
 
     1. For **Type**, select **Trial** (Do not select the Trial
         (subscription-based) option).
