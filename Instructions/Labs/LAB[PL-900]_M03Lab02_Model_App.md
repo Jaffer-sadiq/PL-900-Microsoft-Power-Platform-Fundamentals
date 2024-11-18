@@ -87,7 +87,7 @@ Both will be integrated to the model-driven app for a better user-experience.
 
 	The header is the top right area of the form. You may need to collapse the Properties panel on the right side of the screen to see the field on the form.
 
-   ![](media/lab3-3n.png)
+   ![](media/pl900lab3n.png)
 
 8. With the **Code** field still selected, check the checkbox for **Read-only** in the Properties panel on the right side of the screen.
 
