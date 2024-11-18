@@ -72,7 +72,7 @@ We would like to assign each visit a unique number that can be easily entered an
 
 1. Select **+ New table** and choose **Table (advanced properties)**. 
 
-	![](media/lab1-1z.png)
+   ![](media/lab1-1z.png)
 
 1. Enter `Visit` for **Display Name**. Leave other fields at default.
 
@@ -192,7 +192,7 @@ We would like to assign each visit a unique number that can be easily entered an
 
 ### Task 1: Load Excel file to OneDrive
 
-1. You should have the **Visits.xlsx** file stored on your virtual machine in **C:\AllFiles\PL-900-Microsoft-Power-Platform-Fundamentals-master\Allfiles**. Download [Visits.xlsx](https://github.com/MicrosoftLearning/PL-900-Microsoft-Power-Platform-Fundamentals/raw/master/Allfiles/Visits.xlsx) if you do not.
+1. You should have the **Visits.xlsx** file stored on your virtual machine in **C:\AllFiles\PL-900-Microsoft-Power-Platform-Fundamentals-prod-new\Allfiles**.
 
 2. Select your **Practice<inject key="DeploymentID" enableCopy="false"/>** environment at the top right if it is not already selected.
 
