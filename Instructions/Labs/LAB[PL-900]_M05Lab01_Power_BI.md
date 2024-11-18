@@ -63,7 +63,7 @@ We will follow the below steps to design and create a Power BI dashboard:
 
 1.  Once the data load is complete, select the **visits** report.
 
-    >**Note**: **Report** is to be selected, do not select the **Dataset**.
+    >**Note**: **Report** is to be selected, do not select the **Semantic model**.
 
 1.  Select **Edit**. 
 
