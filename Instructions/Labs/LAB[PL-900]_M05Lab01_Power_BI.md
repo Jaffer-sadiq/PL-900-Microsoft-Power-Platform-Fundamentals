@@ -1,4 +1,4 @@
-## Lab 5: How to build a simple dashboard
+# Lab 5: How to build a simple dashboard
 
 ## Lab scenario
 
@@ -31,13 +31,6 @@ We will follow the below steps to design and create a Power BI dashboard:
 
 - Completion of **Lab 0 - Validate lab environment**
 - Completion of **Lab 1 - Data Modeling**
-
-## Things to consider before you begin
-
--   Who is the target audience of the report?
--   How will the audience consume the report? Typical device? Location?
--   Do you have sufficient data to visualize?
--   What are the possible characteristics you can use to analyze data about the visits?
 
 ## Exercise 1: Create Power BI Report
 
