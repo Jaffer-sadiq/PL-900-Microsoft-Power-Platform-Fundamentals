@@ -226,17 +226,17 @@ We would like to assign each visit a unique number that can be easily entered an
 
 10. On the **Power query** > **Choose data** screen, check the **Visits** Excel workbook. 
 
-11. Select **Next**. Do not navigate away from this page until all the contents have been loaded.
+11. Do not navigate away from this page until all the contents have been loaded.
 
 12. Select **Next**.
 
-13. On the **Map tables** section, select **Load to existing table** under the **Load settings**.
+13. On the **Choose destination settings** section, select **Load to existing table** under the **Load settings**.
 
 14. On the **Destination table** drop-down menu, Select the table name starts with **crXXX_Visit** (where XXX is a random set of letters and numbers)
 
-15. On the **Column Mapping**, verify that all the source and Destination fields mapped appropriately.
+15. On the **Column Mapping** section, ensure all source and destination fields are correctly mapped. If any fields are not mapped, manually map them by selecting the appropriate values.
 
-	| Destination columns  | Source values   |
+	| Destination columns  | Source columns  |
 	|:---------------------|:----------------|
 	| crxxx_ActualEnd      | actual end      |
 	| crxxx_ActualStart    | actual start    |
