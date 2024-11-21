@@ -1,17 +1,6 @@
----
-lab:
-    title: 'Bonus Lab: Build a canvas app using Copilot'
-    module: 'Module 3: Describe how to build applications with Microsoft Power Apps'
----
-
 # Bonus Lab: Build a canvas app using Copilot
 
-**WWL Tenants - Terms of Use**
-If you are being provided with a tenant as a part of an instructor-led training delivery, please note that the tenant is made available for the purpose of supporting the hands-on labs in the instructor-led training. 
-Tenants should not be shared or used for purposes outside of hands-on labs. The tenant used in this course is a trial tenant and cannot be used or accessed after the class is over and is not eligible for extension. 
-Tenants must not be converted to a paid subscription. Tenants obtained as a part of this course remain the property of Microsoft Corporation and we reserve the right to obtain access and repossess at any time. 
-
-## Scenario
+## Lab Scenario
 
 Bellows College is an educational organization with multiple buildings on campus. Campus visitors are currently recorded in paper journals. The information is not captured consistently, and there are no means to collect and analyze data about the visits across the entire campus.
 
@@ -35,7 +24,7 @@ We will follow the below outline to design the canvas app:
 
 **Objective:** In this exercise, you will create a canvas app by connecting to an Campus visits table.
 
-### Task \#1: Create the initial application
+### Task 1: Create the initial application
 
 1. Navigate to https://make.powerapps.com
 
