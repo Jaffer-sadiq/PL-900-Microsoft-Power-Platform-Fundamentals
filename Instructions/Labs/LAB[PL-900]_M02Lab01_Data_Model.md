@@ -88,17 +88,17 @@ We would like to assign each visit a unique number that can be easily entered an
 
 	- Select **+ New column**.
 
-	- Enter `Scheduled Start` for **Display name**.
+	- Enter `Scheduled Start`(1) for **Display name**.
 
-	- Select **Date and Time** for **Data type**.
+	- Select **Date and Time (2)** for **Data type**.
 
-	- In **Required**, select **Business required**.
+	- In **Required**, select **Business required (3)**.
 
-	- Expand **Advanced options**.
+	- Expand **Advanced options (4)**.
 
-	- In **Time zone adjustment**, select **Time zone independent**.
+	- In **Time zone adjustment**, select **Time zone independent (5)**.
 
-	- Select **Save**.
+	- Select **Save (6)**.
 
          ![](media/lab1-4z.png)
 
@@ -106,17 +106,17 @@ We would like to assign each visit a unique number that can be easily entered an
 
 	- Click **+ New column**.
 
-	- Enter `Scheduled End` for **Display name**.
+	- Enter `Scheduled End` (1) for **Display name**.
 
-	- Select **Date and Time** for **Data type**.
+	- Select **Date and Time (2)** for **Data type**.
 
-	- In **Required**, select **Business required**.
+	- In **Required**, select **Business required (3)**.
 
-	- Expand **Advanced options**.
+	- Expand **Advanced options (4)**.
 
-	- In **Time zone adjustment**, select **Time zone independent**.
+	- In **Time zone adjustment**, select **Time zone independent (5)**.
 
-	- Select **Save**.
+	- Select **Save (6)**.
 
          ![](media/lab1-5z.png)
 
@@ -124,17 +124,17 @@ We would like to assign each visit a unique number that can be easily entered an
 
 	- Click **+ New column**.
 
-	- Enter `Actual Start` for **Display name**.
+	- Enter `Actual Start` (1) for **Display name**.
 
-	- Select **Date and Time** for **Data type**.
+	- Select **Date and Time (2)** for **Data type**.
 
-	- In **Required**, leave this as **Optional.**
+	- In **Required**, leave this as **Optional (3)**.
 
-	- Expand **Advanced options**.
+	- Expand **Advanced options (4)**.
 
-	- In **Time zone adjustment**, select **Time zone independent**.
+	- In **Time zone adjustment**, select **Time zone independent (5)**.
 
-	- Select **Save**.
+	- Select **Save (6)**.
 
          ![](media/lab1-6z.png)
 
@@ -142,17 +142,17 @@ We would like to assign each visit a unique number that can be easily entered an
 
 	- Click **+ New column**.
 
-	- Enter `Actual End` for **Display name**.
+	- Enter `Actual End` (1) for **Display name**.
 
-	- Select **Date and Time** for **Data type**.
+	- Select **Date and Time (2)** for **Data type**.
 
-	- In **Required**, leave this as **Optional**.
+	- In **Required**, leave this as **Optional (3)**.
 
-	- Expand **Advanced options**.
+	- Expand **Advanced options (4)**.
 
-	- In **Time zone adjustment**, select **Time zone independent**.
+	- In **Time zone adjustment**, select **Time zone independent (5)**.
 
-	- Select **Save**.
+	- Select **Save (6)**.
 
          ![](media/lab1-7z.png)
 
@@ -172,17 +172,17 @@ We would like to assign each visit a unique number that can be easily entered an
 
 	- Click **+ New column**.
 
-	- Enter `Visitor` for **Display name**.
+	- Enter `Visitor` (1) for **Display name**.
 
-	- Select **Lookup** > **Lookup** for **Data type**.
+	- Select **Lookup** > **Lookup (2)** for **Data type**.
 
-	- Select **Contact** for the **Related Table**.
+	- Select **Contact (3)** for the **Related Table**.
 
-	- Expand **Advanced options**.
+	- Expand **Advanced options (4)**.
 
-	- Enter `visitor_id` for **Relationship name**.
+	- Enter `visitor_id`(5) for **Relationship name**.
 
-	- Select **Save**.
+	- Select **Save (6)**.
 
          ![](media/lab1-9z.png)
 
