@@ -66,7 +66,6 @@ Both will be integrated to the model-driven app for a better user-experience.
 
    ![](media/lab3-1n.png)
 
-
    ![](media/lab3-2n.png)
 
 5. On the right side of the screen on the Properties panel, select the **Display Name** field, and change it to **Main Information**.
@@ -139,7 +138,7 @@ Now, we will clone the view to create a new view for today’s visits.
 
 3. Select **Edit filters** link in the Properties panel.
 
-4. Select **Add**, select **Add row**.
+4. Select **+ Add**, select **Add row**.
 
 5. Select **Scheduled Start** as a field, then select **Today** as the condition in the drop-down.
 
@@ -177,7 +176,7 @@ For simplicity and time’s sake, we will not be addressing some of the Visit co
 
 5. After your new model-driven application loads, select the **+ Add Page** button.
 
-6. On the Add Page screen, choose **Dataverse table**, and then select the **Next** button.
+6. On the Add Page screen, choose **Dataverse table**.
 
 7. Add the following tables:
 
@@ -246,9 +245,10 @@ For simplicity and time’s sake, we will not be addressing some of the Visit co
 You have created and configured your first model-driven app.
 
 > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
-> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
-> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
-> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help
+      
+   - If you receive a success message, you can proceed to the next task.
+   - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+   - If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com. We are available 24/7 to help you out.
 
 <validation step="cc68b724-6189-4c55-8c93-0de56b3c08d2" />
 
