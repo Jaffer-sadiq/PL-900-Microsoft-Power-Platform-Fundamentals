@@ -104,9 +104,11 @@ We will follow the below steps to design and create a Power BI dashboard:
 
 2.  Select **Pin to a dashboard** on the menu. Depending on the layout you may need to press **...** to show additional menu items.
 
-3.  Select **New dashboard** on **Pin to dashboard** prompt.
+3.  Select **New dashboard** on **Pin to dashboard (1)** prompt.
 
-4.  Enter **Campus Management** as a **Dashboard name**, press **Pin live**.
+4.  Enter **Campus Management (3)** as a **Dashboard name**, press **Pin live (4)**.
+
+    ![](media/i2.jpg)
 
 5.  A pop-up will prompt you that the dashboard has been created. Select **Go to dashboard**.
 
@@ -131,9 +133,10 @@ We will follow the below steps to design and create a Power BI dashboard:
       ![](media/5-powerbi-result.png)
 
 > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
-> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
-> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
-> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help
+      
+   - If you receive a success message, you can proceed to the next task.
+   - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+   - If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com. We are available 24/7 to help you out.
 
 <validation step="9f380df5-9a68-4cd5-a531-2fe10839b9ad" />
 

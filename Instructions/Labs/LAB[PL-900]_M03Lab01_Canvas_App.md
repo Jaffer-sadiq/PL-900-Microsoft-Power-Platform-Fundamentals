@@ -41,7 +41,7 @@ We will follow the below outline to design the canvas app:
 
 2.  Select your **Practice<inject key="DeploymentID" enableCopy="false"/>** environment at the top right if it is not already selected.
 
-3. If necessary, click the **Home** icon on the left side of the screen. Select **+ Create** and then select **Dataverse**.
+3. If necessary, click the **Home** icon on the left side of the screen. Select **+ Create (1)** and then select **Dataverse (2)**.
 
    ![](media/lab2-1n.png)
 
@@ -57,11 +57,11 @@ We will follow the below outline to design the canvas app:
 
     ![](media/lab2-3n.png)    
 
-5. Locate and select the **Visits** table you created in the previous lab.
+5. Locate and select the **Visits (1)** table you created in the previous lab.
 
    ![](media/lab2-4n.png)
 
-6.  Select the **Connect** button in the bottom right corner.
+6.  Select the **Connect (2)** button in the bottom right corner.
 
 7.  After your app is created, On the Welcome to Power Apps Studio screen, check the **Don’t show me this again** box, and then select **Skip**.
 
@@ -83,11 +83,11 @@ In this task, you will customize the header text on each of the three screens fo
 
 1.  You are on the Browse screen. Select the **Visits** label on the screen.
 
-1. On the right side of the screen, under the Properties tab, update the **Text** control property to `Bellows College Visits`.
+1. On the right side of the screen, under the Properties tab, update the **Text** control property to `Bellows College Visits`(1).
 
    ![](media/lab2-5n.png)
 
-1. In the properties, change the **Font size** to **24**.
+1. In the properties, change the **Font size** to **24 (2)**.
 
 1.  Click in the blank background of the screen to see the updated text on your Browse screen.
 
@@ -109,7 +109,7 @@ In this task, you will customize the header text on each of the three screens fo
 
 1. Using the Tree view in the left-hand navigation, select the **BrowseScreen**.
 
-1. On the command toolbar, click on the **ellipsis (...)** icon, select the **Theme** button and from the list that appears, select the **Red** theme color.
+1. On the command toolbar, click on the **ellipsis (...) (1)** icon, select the **Theme (2)** button and from the list that appears, select the **Red (3)** theme color.
 
    ![](media/lab2-6n.png)
 
@@ -117,7 +117,7 @@ In this task, you will customize the header text on each of the three screens fo
 
 In this task, you will test out your new app.
 
-1. With your application open in the App Designer, click on the **ellipsis (...)** icon, select **Settings**, in the **General** section update the name of your app to **Visits App**, click the **X** to close the settings screen and then select **Save**.
+1. With your application open in the App Designer, click on the **ellipsis (...)** icon, select **Settings (1)**, in the **General** section update the name of your app to **Visits App (2)**, click the **X** to close the settings screen and then select **Save**.
 
    ![](media/lab2-7n.png)
 

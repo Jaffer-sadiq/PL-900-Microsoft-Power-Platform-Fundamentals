@@ -45,31 +45,31 @@ the unique code assigned to the visit when a visit is created.
 2.  Select your **Practice<inject key="DeploymentID" enableCopy="false"/>** environment at the top right if it is
     not already selected.
 
-3.  In the left navigation, select **Flows**.
+3.  In the left navigation, select **Flows (1)**.
 
 4.  If prompted, select **Get started**.
 
-5. Click **New flow** and select **Automated cloud flow**.
+5. Click **New flow (2)** and select **Automated cloud flow (3)**.
 
    ![img.](media/lab4-3n.png)
 
-6.  Enter `Visit Notification` for **Flow name**.
+6.  Enter `Visit Notification`(1) for **Flow name**.
 
-7.  In **Choose your flow's trigger**, search for **Dataverse**.
+7.  In **Choose your flow's trigger**, search for **Dataverse (2)**.
 
-8. Select the trigger **When a row is added, modified or deleted**, and then select **Create**.
+8. Select the trigger **When a row is added, modified or deleted (3)**, and then select **Create(4)**.
 
    ![img.](media/lab4-2n.png)
 
 9. Populate the trigger conditions for the flow:
 
-    1.  Select **Added** for **Change type**
+    1.  Select **Added (1)** for **Change type**
 
-    2.  Select **Visits** for **Table name**
+    2.  Select **Visits (2)** for **Table name**
 
-    3.  Select **Organization** for **Scope**
+    3.  Select **Organization (3)** for **Scope**
 
-    4.  On the trigger step, click the ellipsis (**...**) and click **Rename**. Rename this trigger **"When a visit is added"**.    
+    4.  On the trigger step, click the ellipsis (**... (4)**) and click **Rename**. Rename this trigger **"When a visit is added" (5)**.    
         This is a good practice, so you and other flow editors can understand the purpose of the step without having to dive into the details.
     ![img.](media/lab4-4n.png)
 
@@ -77,9 +77,9 @@ the unique code assigned to the visit when a visit is created.
 
 1.  Select **+ New step**. This step is required to retrieve visitors information, including email address.
 
-2.  Search for **Dataverse**.
+2.  Search for **Dataverse (1)**.
 
-3. Select the **Get a row by ID** action.
+3. Select the **Get a row by ID (2)** action.
 
    ![img.](media/lab4-5n.png)
 
@@ -99,16 +99,16 @@ the unique code assigned to the visit when a visit is created.
 1.  Click **+ New step**. This is the step that will send an email to the
     visitor.
 
-2. Search for *mail*, select **Office 365 Outlook** connector and **Send an email (V2)** action.
+2. Search for *mail*, select **Office 365 Outlook (1)** connector and **Send an email (V2)(2)** action.
 
    ![img.](media/lab4-7n.png)
 
 3.  If asked to Accept terms and conditions for using this action, click **Accept**.
 
-4.  Select **Add dynamic content** under the **To** field. 
+4.  Select **Add dynamic content (1)** under the **To** field. 
     
-5. Select **Email** from the Dynamic content list. 
-    >**Note**: Notice that it is beneath the **Get the visitor** header. This means you are selecting the Email that is related to the Visitor that you looked up in the previous step.
+5. Select **Email (3)** from the Dynamic content list. 
+    >**Note**: Notice that it is beneath the **Get the visitor (2)** header. This means you are selecting the Email that is related to the Visitor that you looked up in the previous step.
 
    ![img.](media/lab4-8n.png)
 
@@ -130,7 +130,7 @@ the unique code assigned to the visit when a visit is created.
 
 8.  Highlight the **{First Name}** text. Replace it with the **First Name** field from the **Get the Visitor** step.
 
-9. Highlight the **{Scheduled Start}** text. Replace it with the **Scheduled Start** field **When a visit is added** step.
+9. Highlight the **{Scheduled Start}** text. Replace it with the **Scheduled Start (1)** field **When a visit is added** step.
 
    ![img.](media/lab4-9n.png)
 
@@ -157,7 +157,7 @@ the unique code assigned to the visit when a visit is created.
 
 5.  Navigate to the browser tab with your model-driven app open. 
 
-6.  Using the navigation on the left, select **Visits**
+6.  Using the navigation on the left, select **Visits view**
 
 6. Press the **+ New** button to add a new **Visit** record.
 
@@ -178,9 +178,10 @@ the unique code assigned to the visit when a visit is created.
    >**Note**: After a short delay, you should see an email in your inbox, since you populated John Doe's email as your personal email. Note that it may go to your Junk Email folder.
     
 > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
-> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
-> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
-> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help
+      
+   - If you receive a success message, you can proceed to the next task.
+   - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+   - If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com. We are available 24/7 to help you out.
 
 <validation step="d62bfddd-e1d7-47a4-98d5-b90184613d43" />
 

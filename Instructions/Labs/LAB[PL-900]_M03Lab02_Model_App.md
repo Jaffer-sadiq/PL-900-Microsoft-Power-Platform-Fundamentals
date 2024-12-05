@@ -72,17 +72,17 @@ Both will be integrated to the model-driven app for a better user-experience.
 
 6. Select the **Table Columns** from the left navigation pane and add the following fields below the **Owner** field by dragging columns to the form or simply clicking column names:
 
-	1. **Visitor**
+	1. **Visitor (1)**
 
-	1. **Scheduled Start**
+	1. **Scheduled Start (2)**
 
-	1. **Scheduled End**
+	1. **Scheduled End (3)**
 
-	1. **Actual Start**
+	1. **Actual Start (4)**
 
-	1. **Actual End**
+	1. **Actual End (5)**
 
-7. Drag the **Code** column and drop it in the form header.
+7. Drag the **Code (6)** column and drop it in the form header.
 
 	The header is the top right area of the form. You may need to collapse the Properties panel on the right side of the screen to see the field on the form.
 
@@ -232,9 +232,9 @@ For simplicity and time’s sake, we will not be addressing some of the Visit co
 
 		1. **Scheduled End**: select tomorrow’s date and 3:30 PM as end time
 
-- Click **Save & Close**. This will create the Visit and you should be able to see it on the Active Visits View.
+1. Click **Save & Close**. This will create the Visit and you should be able to see it on the Active Visits View.
 
-- Change view to **Today’s Visits** by using the drop down next to **Active Visits**. You should no longer see the new visit in the view, since it is scheduled for tomorrow.
+1. Change view to **Today’s Visits** by using the drop down next to **Active Visits**. You should no longer see the new visit in the view, since it is scheduled for tomorrow.
 
 4. You may add more test records.
 
