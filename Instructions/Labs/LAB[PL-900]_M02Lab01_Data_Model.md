@@ -66,19 +66,19 @@ We would like to assign each visit a unique number that can be easily entered an
 
 1. Sign into [https://make.powerapps.com](https://make.powerapps.com/) (if you are not already signed in)
 
-1. Select your **Practice<inject key="DeploymentID" enableCopy="false"/>** environment at the top right if it is not already selected.
+1. Select your **Practice<inject key="DeploymentID" enableCopy="false"/> (1)** environment at the top right if it is not already selected.
 
-1. Navigate to **Tables** left from left pane.
+1. Navigate to **Tables (2)** left from left pane.
 
-1. Select **+ New table** and choose **Table (advanced properties)**. 
+1. Select **+ New table (3)** and choose **Table (advanced properties) (4)**. 
 
    ![](media/lab1-1z.png)
 
-1. Enter `Visit` for **Display Name**. Leave other fields at default.
+1. Enter `Visit`(1) for **Display Name**. Leave other fields at default.
 
     ![](media/lab1-2z.png)
 
-1. Select **Save**.
+1. Select **Save (2)**.
 
 1. Under the **Schema** section, select **Columns**.
 
