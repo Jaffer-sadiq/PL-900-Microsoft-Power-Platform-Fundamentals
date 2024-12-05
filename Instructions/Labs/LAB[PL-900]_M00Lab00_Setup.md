@@ -76,4 +76,4 @@ In this Module-lab 0, you will acquire a Power Platform trial and access the Pow
 
    > **Note**: Your environment may take a few minutes to provision. Refresh the page if needed.
 
-## You have successfully completed the lab
+## Proceed to the next lab
