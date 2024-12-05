@@ -212,7 +212,7 @@ We would like to assign each visit a unique number that can be easily entered an
 
 2. Select your **Practice<inject key="DeploymentID" enableCopy="false"/>** environment at the top right if it is not already selected.
 
-3. Using the navigation on the left, select **Tables**.
+3. Now navigate to **Tables** from left pane.
 
 4. Locate and open the **Visit** table you created in the previous exercise.
 
@@ -251,9 +251,7 @@ We would like to assign each visit a unique number that can be easily entered an
 
 16. Select **Next**.
 
-17. Select **Refresh manually**.
-
-18. Click **Publish**.
+17. Select **Refresh manually** and Click on **Publish**.
 
 **Note:** It can take several minutes for your data to import into your table. Don’t worry if you get a few errors, that is normal, and will not impact the rest of the course.
 
@@ -284,9 +282,10 @@ We would like to assign each visit a unique number that can be easily entered an
 You have successfully created a new table and imported data.
 
 > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
-> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
-> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
-> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help
+      
+   - If you receive a success message, you can proceed to the next task.
+   - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+   - If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com. We are available 24/7 to help you out.
 
 <validation step="92fc1720-0f2b-42f8-9718-4e9301f3f7c4" />
 
