@@ -38,7 +38,7 @@ To prepare your learning environments you will:
 
 - Refer to the following image for the metadata description (tables and relationships).
 
-  ![data model document](../../Allfiles/CampusManagement.png)
+  ![data model document](../../Allfiles/Labs/CampusManagement.png)
 - Create Visit table
 - Import Visit data using an Excel spreadsheet
 
@@ -68,7 +68,7 @@ We would like to assign each visit a unique number that can be easily entered an
 
 1. Select your **Practice<inject key="DeploymentID" enableCopy="false"/>** environment at the top right if it is not already selected.
 
-1. Using the navigation on the left select **Tables**.
+1. Navigate to **Tables** left from left pane.
 
 1. Select **+ New table** and choose **Table (advanced properties)**. 
 
@@ -197,6 +197,8 @@ We would like to assign each visit a unique number that can be easily entered an
 2. Select your **Practice<inject key="DeploymentID" enableCopy="false"/>** environment at the top right if it is not already selected.
 
 3. Click on the Waffle button in the upper left corner to change applications and select **OneDrive**. (It may take a moment for your OneDrive to be set up. Click **Your OneDrive is ready** when you see it on the screen.)
+
+   ![](media/i1.jpg)
 
 4. Select **+Add new** from the menu and select **Files upload**.
 
