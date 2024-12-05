@@ -210,7 +210,7 @@ For simplicity and time’s sake, we will not be addressing some of the Visit co
 
 	1. Provide **First Name** as John and **Last Name** as Doe.
 
-	1. Provide your personal email as **Email**. This will be used in a future lab where you will receive an email.
+	1. Provide your **personal email** as **Email**. This will be used in a future lab where you will receive an email.
 
 	1. Click **Save & Close**.
 
