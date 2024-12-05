@@ -52,7 +52,7 @@ We will follow the below outline to design the canvas app:
 
     ![Screenshot of the Table structure just created](media/blab3.png)
 
-1. In the **What would you like to do next?** box, enter the text: Add two columns, Time in and Time out in the table. Both should be date and time fields. 
+1. In the **What would you like to do next?** box, enter the text: `Add two columns, Time in and Time out in the table. Both should be date and time fields`. 
 
 1. Select the **Go** button or press **Enter**. 
 
@@ -64,7 +64,7 @@ We will follow the below outline to design the canvas app:
 
 1. Since we are logging the visitors in and out time, we no longer need any other visit date fields. 
 
-1. Locate the **Visit Date** field (or equivalent field) and in the **What would you like to do next?** box, enter the text: Remove the Visit Date Field (or equivalent field). 
+1. Locate the **Visit Date** field (or equivalent field) and in the **What would you like to do next?** box, enter the text: `Remove the Visit Date Field (or equivalent field)`. 
 
    >**Note**: If required, update the field name to be removed from relevant table name.
 
