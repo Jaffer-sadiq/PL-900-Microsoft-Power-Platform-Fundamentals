@@ -100,7 +100,7 @@ We would like to assign each visit a unique number that can be easily entered an
 
 	- Select **Save**.
 
-    ![](media/lab1-4z.png)
+         ![](media/lab1-4z.png)
 
 1. Create Scheduled End column
 
@@ -118,7 +118,7 @@ We would like to assign each visit a unique number that can be easily entered an
 
 	- Select **Save**.
 
-    ![](media/lab1-5z.png)
+         ![](media/lab1-5z.png)
 
 1. Create Actual Start column
 
@@ -136,7 +136,7 @@ We would like to assign each visit a unique number that can be easily entered an
 
 	- Select **Save**.
 
-    ![](media/lab1-6z.png)
+         ![](media/lab1-6z.png)
 
 1. Create Actual End column
 
@@ -154,7 +154,7 @@ We would like to assign each visit a unique number that can be easily entered an
 
 	- Select **Save**.
 
-    ![](media/lab1-7z.png)
+         ![](media/lab1-7z.png)
 
 1. Create Code column
 
@@ -166,7 +166,7 @@ We would like to assign each visit a unique number that can be easily entered an
 
 	- Select **Save**.
 
-    ![](media/lab1-8zn.png)
+         ![](media/lab1-8zn.png)
 
 1. Create Visitor lookup column
 
@@ -184,7 +184,7 @@ We would like to assign each visit a unique number that can be easily entered an
 
 	- Select **Save**.
 
-    ![](media/lab1-9z.png)
+         ![](media/lab1-9z.png)
 
 ## Exercise 2: Import Data
 
