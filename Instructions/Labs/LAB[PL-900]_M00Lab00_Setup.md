@@ -55,7 +55,7 @@ In this Module-lab 0, you will acquire a Power Platform trial and access the Pow
 
 1. If you see a Welcome popup, click **Get Started**.
 
-1. Select **Environments** and click **+ New**.
+1. Select **Environments** from left pane and click **+ New**.
 
     1. For **Name**, enter **Practice<inject key="DeploymentID" enableCopy="false"/>**
 
@@ -66,9 +66,9 @@ In this Module-lab 0, you will acquire a Power Platform trial and access the Pow
 
     1. Leave all other selections as default and click **Next**.
   
-    1. Click the **+ Select** button under the **Security group** heading.
+    1. Click the **+ Select** button under **Security group**.
    
-    1. Select the **None** item under the **Open access** heading and then select **Done**..
+    1. Select the **None** item under the **Open access** and then select **Done**..
 
     1. Leave the remaining options at their defaults and select **Save**.
 
@@ -76,4 +76,4 @@ In this Module-lab 0, you will acquire a Power Platform trial and access the Pow
 
    > **Note**: Your environment may take a few minutes to provision. Refresh the page if needed.
 
-## Proceed to next lab
+## You have successfully completed the lab
