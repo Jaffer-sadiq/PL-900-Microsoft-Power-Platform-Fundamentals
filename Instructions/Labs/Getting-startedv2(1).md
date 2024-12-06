@@ -1,6 +1,6 @@
 # PL-900 Microsoft Power Platform Fundamentals Workshop
 
-### Overall Estimated Duration: 4 hours 30 minutes
+### Overall Estimated Duration: 4 hours
 
 ## Overview
 
