@@ -1,6 +1,8 @@
 # Lab 0: Validate lab environment
 
-## Scenario
+### Estimated Duration: 15 minutes
+
+## Overview
 
 Bellows College is an educational organization with multiple buildings on campus. Campus visitors are currently recorded in paper journals. The information is not captured consistently, and there are no means to collect and analyze data about the visits across the entire campus.
 
@@ -10,9 +12,15 @@ Throughout this course, you will build applications and perform automation to en
 
 In this Module-lab 0, you will acquire a Power Platform trial and access the Power Platform admin center. In the admin center, you will then create a **Practice** environment that will be used for majority of the lab executions.
 
-## Exercise 1: Setup
+## Lab Objectives
 
-### Task 1: Acquire your Microsoft Power Platform trial tenant
+You will be able to complete the following exercise:
+
+-  **Set Up Environment :** Ensure lab environment was correctly set up for working with Power Platform tools.
+
+## Exercise 1 : SetUp Environment
+
+## Task 1: Acquire your Microsoft Power Platform trial tenant
 
 1. Sign up for Power Apps using the Power Apps Trial link below
    ```
@@ -43,7 +51,7 @@ In this Module-lab 0, you will acquire a Power Platform trial and access the Pow
 
     ![Ask Later](./media/lab0-2.png)
 
-### Task 2: Create environment
+## Task 2: Create environment
 
 1. Go to the Power Platform Admin Center using the following URL
 
@@ -76,4 +84,12 @@ In this Module-lab 0, you will acquire a Power Platform trial and access the Pow
 
    > **Note**: Your environment may take a few minutes to provision. Refresh the page if needed.
 
-## Proceed to the next lab
+## Summary
+
+## Summary
+ 
+In this lab you have covered the following:
+
+-  Ensured lab environment was correctly set up for working with Power Platform tools.
+
+### You have successfully completed the lab

@@ -1,6 +1,8 @@
 # Lab 2: How to build a canvas app
 
-## Lab scenario
+### Estimated Duration: 40 minutes
+
+## Overview
 
 Bellows College is an educational organization with multiple buildings on campus. Campus visits are currently recorded in paper journals. The information is not captured consistently, and there are no means to collect and analyze data about the visits across the entire campus.
 
@@ -9,10 +11,10 @@ Currently, campus administration is leveraging an Excel spreadsheet to track vis
 Throughout this course, you will build applications and perform automation to enable the Bellows College administration and security personnel to manage and control access to the buildings on campus.
 
 ## Lab objective
-In this lab, you will perform:
-+ Exercise 1: Create Visits Canvas app
 
-## Estimated time: 40 minutes
+You will be able to complete the following exercises:
+
++ Exercise 1: Create Visits Canvas app
 
 ## High-level lab steps
 
@@ -33,7 +35,7 @@ We will follow the below outline to design the canvas app:
 
 ## Exercise 1: Create Visits Canvas app
 
-**Objective:** In this exercise, you will create a canvas app by connecting your Visits table you created earlier.
+In this exercise, you will create a canvas app by connecting your Visits table you created earlier.
 
 ### Task 1: Create the Visits app
 
@@ -142,8 +144,9 @@ In this task, you will test out your new app.
 
 Congratulations, You have created and configured your first canvas app.
 
-### Review
-In this lab, you have completed:
+## Summary
+
+In this lab you have covered the following:
 - Creating a canvas app by connecting your Visits table
 
-### Proceed with the next Lab.
+### You have successfully completed the lab

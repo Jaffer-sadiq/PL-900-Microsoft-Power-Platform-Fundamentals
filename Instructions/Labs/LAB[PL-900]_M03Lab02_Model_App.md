@@ -1,6 +1,8 @@
 # Lab 3: How to build a model-driven app
 
-## Lab scenario
+### Estimated Duration: 40 minutes
+
+## Overview
 
 Bellows College is an educational organization with multiple buildings on campus. Campus visitors are currently recorded in paper journals. The information is not captured consistently, and there are no means to collect and analyze data about the visits across the entire campus.
 
@@ -11,11 +13,11 @@ Throughout this course, you will build applications and perform automation to en
 In this lab, you will build a Power Apps model-driven app to allow the backoffice campus staff to manage visit records across the entire campus.
 
 ## Lab objectives
-In this lab, you will perform:
+
+You will be able to complete the following exercises:
+
 + Exercise 1: Customize Views and Forms
 + Exercise 2: Create Model-driven app
-
-## Estimated time: 40 minutes
 
 ## High-level lab steps
 
@@ -48,7 +50,7 @@ Both will be integrated to the model-driven app for a better user-experience.
 
 ## Exercise 1: Customize Views and Forms
 
-**Objective:** In this exercise, you will customize views and forms of the custom created tables that will be used in the model-driven app.
+In this exercise, you will customize views and forms of the custom created tables that will be used in the model-driven app.
 
 ### Task 1: Edit Visit Form
 
@@ -154,7 +156,7 @@ Now, we will clone the view to create a new view for today’s visits.
 
 ## Exercise 2: Create Model-driven app
 
-**Objective:** In this exercise, you will create a model-driven app, customize the sitemap, and test the app.
+In this exercise, you will create a model-driven app, customize the sitemap, and test the app.
 
 For simplicity and time’s sake, we will not be addressing some of the Visit columns in this lab.
 
@@ -256,9 +258,11 @@ You have created and configured your first model-driven app.
 
 - Select specific views and forms for Contacts.
 
-### Review
-In this lab, you have completed:
+## Summary
+
+In this lab you have covered the following:
+
 - Customize Views and Forms
 - Create Model-driven app
 
-### Proceed with the next Lab.
+### You have successfully completed the lab

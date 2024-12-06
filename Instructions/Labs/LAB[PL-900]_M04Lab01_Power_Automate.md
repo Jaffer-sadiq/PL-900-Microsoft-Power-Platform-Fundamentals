@@ -1,6 +1,8 @@
 # Lab 4: How to build an automated solution
 
-## Lab scenario
+### Estimated Duration: 40 minutes
+
+## Overview
 
 Bellows College is an educational organization with multiple buildings on
 campus. Campus visitors are currently recorded in paper journals. The
@@ -13,10 +15,11 @@ Throughout this course, you will build applications and perform automation to en
 In this lab, you will create a Power Automate flow to email a visitor when a visit is scheduled.
 
 ## Lab objective
-In this lab, you will perform:
+
+You will be able to complete the following exercises:
+
 + Exercise 1: Create Visit Notification flow
 
-## Estimated time: 40 minutes
 
 ## High-level lab steps
 
@@ -34,7 +37,7 @@ complete the project:
 
 ## Exercise 1: Create Visit Notification flow
 
-**Objective:** In this exercise, you will create a Power Automate flow that
+In this exercise, you will create a Power Automate flow that
 implements the requirement. The visitor should be sent an email that includes
 the unique code assigned to the visit when a visit is created.
 
@@ -189,8 +192,10 @@ the unique code assigned to the visit when a visit is created.
 
 - Experiment with the formatting on the email. How can you make it look more professional?
 
-### Review
-In this lab, you have completed:
-- Creating a Power Automate flow to email a visitor when a visit is scheduled.
+## Summary
 
-### Proceed with the next Lab.
+In this lab, you have completed:
+
+- Created a Power Automate flow to email a visitor when a visit is scheduled.
+
+### You have successfully completed the lab

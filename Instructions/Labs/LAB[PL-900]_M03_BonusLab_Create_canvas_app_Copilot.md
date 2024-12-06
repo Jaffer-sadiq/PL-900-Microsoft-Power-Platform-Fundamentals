@@ -1,6 +1,8 @@
 # Bonus Lab: Build a canvas app using Copilot
 
-## Lab Scenario
+### Estimated Duration: 25 minutes
+
+## Overview
 
 Bellows College is an educational organization with multiple buildings on campus. Campus visitors are currently recorded in paper journals. The information is not captured consistently, and there are no means to collect and analyze data about the visits across the entire campus.
 
@@ -10,7 +12,7 @@ In this lab, you will use Copilot to create a new canvas application for logging
 
 ## Lab objectives
 
-In this lab, you will perform:
+You will be able to complete the following exercises:
 
 + Exercise 1: Use Copilot to build a college visits application.
 
@@ -24,7 +26,7 @@ We will follow the below outline to design the canvas app:
 
 ## Exercise 1: Use Copilot to build a college visits application.
 
-**Objective:** In this exercise, you will create a canvas app by connecting to an Campus visits table.
+In this exercise, you will create a canvas app by connecting to an Campus visits table.
 
 ### Task 1: Create the initial application
 
@@ -100,4 +102,10 @@ We will follow the below outline to design the canvas app:
 
 **Congratulations!!** you have used Copilot to create a new app. 
 
-## Proceed to next lab
+## Summary
+
+In this lab you have covered the following:
+
+-   Used Copilot to create a new app. 
+
+### You have successfully completed the lab

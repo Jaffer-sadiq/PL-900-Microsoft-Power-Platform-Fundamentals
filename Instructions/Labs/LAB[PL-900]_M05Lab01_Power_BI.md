@@ -1,6 +1,8 @@
 # Lab 5: How to build a simple dashboard
 
-## Lab scenario
+### Estimated Duration: 40 minutes
+
+## Overview
 
 Bellows College is an educational organization with multiple buildings on
 campus. Campus visitors are currently recorded in paper journals. The
@@ -13,11 +15,11 @@ Throughout this course, you will build applications and perform automation to en
 In this lab, you will build a Power BI report and dashboard that visualizes data about campus visits.
 
 ## Lab objective
-In this lab, you will perform:
+
+You will be able to complete the following exercises:
+
 + Exercise 1: Create Power BI Report
 + Exercise 2: Create Power BI Dashboard
-
-## Estimated time: 40 minutes
 
 ## High-level lab steps
 
@@ -34,7 +36,7 @@ We will follow the below steps to design and create a Power BI dashboard:
 
 ## Exercise 1: Create Power BI Report
 
-**Objective:** In this exercise, you will create a Power BI report based on data the Excel spreadsheet we leveraged in a previous exercise.
+In this exercise, you will create a Power BI report based on data the Excel spreadsheet we leveraged in a previous exercise.
 
 ### Task 1: Prepare Power BI service
 
@@ -140,8 +142,10 @@ We will follow the below steps to design and create a Power BI dashboard:
 
 <validation step="9f380df5-9a68-4cd5-a531-2fe10839b9ad" />
 
-### Review
-In this lab, you have completed:
+## Summary
+
+In this lab you have covered the following:
+
 - Building a Power BI report and dashboard that visualizes data about campus visits.
    
 ### You have successfully completed the lab

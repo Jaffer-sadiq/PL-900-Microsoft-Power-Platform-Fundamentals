@@ -24,10 +24,10 @@ This lab is designed to equip participants with hands-on experience in exploring
 
 Participants should have the following prerequisites:
 
--   **Basic familiarity with Microsoft 365** : Understanding of Microsoft 365 tools and navigation in the Microsoft environment.
--   **Fundamental understanding of business processes** : Awareness of common workflows and data management concepts.
--   **No prior coding experience required** : This lab is beginner-friendly and focuses on low-code solutions.
--   **Access to a Microsoft Power Platform environment** – Ensure you have the necessary permissions and access to work with Power Apps, Power Automate, Power BI, and Power Virtual Agents.
+-   **Basic familiarity with Microsoft 365 :** Understanding of Microsoft 365 tools and navigation in the Microsoft environment.
+-   **Fundamental understanding of business processes :** Awareness of common workflows and data management concepts.
+-   **No prior coding experience required :**  This lab is beginner-friendly and focuses on low-code solutions.
+-   **Access to a Microsoft Power Platform environment :** Ensure you have the necessary permissions and access to work with Power Apps, Power Automate, Power BI, and Power Virtual Agents.
 
 ## Architechture
 
@@ -35,7 +35,7 @@ The PL-900 workshop architecture integrates key Microsoft Power Platform compone
 
 ## Architechture Diagram
 
-![](../media/archdiagram.JPG)
+![](media/finalarch.png)
 
 ## Explanation of Components
 
@@ -53,7 +53,7 @@ Welcome to the PL-900 Microsoft Power Platform Fundamentals Lab! We've prepared 
  
 Once you're ready to dive in, your virtual machine and **Lab Guide** will be right at your fingertips within your web browser.
 
-   ![Create storage by clicking confirm.](../media/GettingStarted/gspage01.png)  
+   ![](./media/i3.jpg)  
 
 ### Virtual Machine & Lab Guide
  
@@ -63,19 +63,19 @@ Your virtual machine is your workhorse throughout the workshop. The lab guide is
  
 To get a better understanding of your lab resources and credentials, navigate to the **Environment** tab.
 
-   ![Create storage by clicking confirm.](../media/GettingStarted/ai-900-gettingstarted-04.png)
+   ![Create storage by clicking confirm.](./media/i4.jpg)
  
 ## Utilizing the Split Window Feature
  
 For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the Top right corner.
  
-   ![](../media/GS8.png)
+   ![](./media/i5.jpg)
  
 ## Managing Your Virtual Machine
  
 Feel free to start, stop, or restart your virtual machine as needed from the **Resources** tab. Your experience is in your hands!
  
-  ![](../media/GS5.png)
+  ![](./media/i7.jpg)
 
 
 ## Support Contact
@@ -88,6 +88,6 @@ Learner Support Contacts:
 
 Now, click on **Next** from the lower right corner to move on to the next page.
 
-![](../media/GS4.png)
+![](./media/i8.jpg)
 
 ### Happy Learning!!

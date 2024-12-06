@@ -1,6 +1,8 @@
 # Lab 1: Data Modeling
 
-## Lab scenario
+### Estimated Duration: 40 minutes
+
+## Overview
 
 Bellows College is an educational organization with multiple buildings on
 campus. Campus visits are currently recorded in paper journals. The information is not captured consistently, and there are no means to collect and analyze data about the visits across the entire campus.
@@ -21,16 +23,10 @@ Finally, you will import sample data into Microsoft Dataverse.
 
 ## Lab objectives
 
-In this lab, you will perform:
+You will be able to complete the following exercises:
 
 + Exercise 1: Create New Table
 + Exercise 2: Import Data
-
-## Estimated time: 40 minutes
-
-## Architecture Diagram
-
- ![](media/finalarch.png)
  
 ## High-level lab steps
 
@@ -38,7 +34,7 @@ To prepare your learning environments you will:
 
 - Refer to the following image for the metadata description (tables and relationships).
 
-  ![data model document](../../Allfiles/Labs/CampusManagement.png)
+  ![data model document](./media/i9.png)
 - Create Visit table
 - Import Visit data using an Excel spreadsheet
 
@@ -53,7 +49,7 @@ To prepare your learning environments you will:
 
 ## Exercise 1: Create New Table
 
-**Objective:** In this exercise, you will create new custom table for Visits.
+In this exercise, you will create new custom table for Visits.
 
 
 ### Task 1: Create Visit Table and Columns
@@ -188,7 +184,7 @@ We would like to assign each visit a unique number that can be easily entered an
 
 ## Exercise 2: Import Data
 
-**Objective:** In this exercise you will import sample data into the Dataverse database.
+In this exercise you will import sample data into the Dataverse database.
 
 ### Task 1: Load Excel file to OneDrive
 
@@ -289,9 +285,11 @@ You have successfully created a new table and imported data.
 
 <validation step="92fc1720-0f2b-42f8-9718-4e9301f3f7c4" />
 
-### Review
-In this lab, you have completed:
+## Summary
+
+In this lab you have covered the following:
+
 - Creating a New Table and importing the Data
 
-### Proceed with the next Lab.
+### You have successfully completed the lab
 
