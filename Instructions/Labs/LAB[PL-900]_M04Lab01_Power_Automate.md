@@ -181,7 +181,7 @@ the unique code assigned to the visit when a visit is created.
       
    - If you receive a success message, you can proceed to the next task.
    - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
-   - If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com. We are available 24/7 to help you out.
+   - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
 
 <validation step="d62bfddd-e1d7-47a4-98d5-b90184613d43" />
 
