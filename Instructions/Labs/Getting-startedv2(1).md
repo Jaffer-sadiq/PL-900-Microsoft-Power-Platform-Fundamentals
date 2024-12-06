@@ -4,8 +4,6 @@
 
 ## Overview
 
-**Overview**  
-
 The **PL-900 Microsoft Power Platform Fundamentals Workshop** introduces you to the capabilities of Microsoft Power Platform and its core components, including Power Apps, Power Automate, Power BI, and Power Virtual Agents. In this lab, you will learn how to build low-code solutions to solve real-world business challenges. You will begin by exploring the Power Platform ecosystem and understanding its key functionalities. Then, you will create a Power App, automate workflows with Power Automate, analyze data with Power BI, and design a chatbot using Power Virtual Agents. By the end of this lab, you will have hands-on experience with essential tools in Power Platform, equipping you to innovate and streamline business processes effectively.
 
 ## Objective
