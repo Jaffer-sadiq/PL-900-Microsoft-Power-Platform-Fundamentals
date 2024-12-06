@@ -85,8 +85,6 @@ You will be able to complete the following exercise:
    > **Note**: Your environment may take a few minutes to provision. Refresh the page if needed.
 
 ## Summary
-
-## Summary
  
 In this lab you have covered the following:
 
