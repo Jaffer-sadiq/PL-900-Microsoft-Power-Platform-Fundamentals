@@ -43,6 +43,7 @@ The architecture for this lab involves several key components:
 -   **Power Apps** : A suite of tools for building custom low-code apps. With Canvas Apps, you can design personalized, flexible user interfaces, while Model-Driven Apps are data-driven, offering a structured approach to app development.
 -   **Power Automate** : A tool that automates repetitive tasks and workflows between applications and services, reducing manual effort. It can trigger actions based on specific events, such as sending emails, approving requests, or updating data.
 -   **Power BI** : A data visualization tool that helps you transform raw data into interactive reports and dashboards. It connects to various data sources to analyze and present insights, enabling informed decision-making.
+  
 ## Getting Started with Lab
 
 Welcome to the PL-900 Microsoft Power Platform Fundamentals Lab! We've prepared an interactive environment for you to explore Power Apps, Power Automate, and Power BI. 
